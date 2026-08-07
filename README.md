@@ -32,7 +32,6 @@ More at [or1k.net/posts](https://or1k.net/posts/)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0r1k&show_icons=true&hide_border=true&theme=github_dark_dimmed" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0r1k&layout=compact&hide_border=true&theme=github_dark_dimmed" alt="Top languages" />
+![metrics](https://raw.githubusercontent.com/0r1k/0r1k/main/metrics.svg)
 
 </div>
