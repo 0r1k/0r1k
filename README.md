@@ -26,10 +26,6 @@ More at [or1k.net/posts](https://or1k.net/posts/)
 - **[jira-tui](https://github.com/0r1k/jira-tui)** — terminal-based Jira client (Python)
 - **[or1k.net](https://or1k.net)** — blog on Linux, DevOps, and automation
 
-### Stack
-
-Linux · Bash / Fish · Rust · Python · Docker · Git · CI/CD
-
 ### Elsewhere
 
 [or1k.net](https://or1k.net) · [GitLab](https://gitlab.com/or1k) · [LinkedIn](https://www.linkedin.com/in/or1k/) · [CV](https://cv.or1k.net) · admin@or1k.net
