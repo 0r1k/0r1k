@@ -30,4 +30,4 @@ More at [or1k.net/posts](https://or1k.net/posts/)
 
 [or1k.net](https://or1k.net) · [GitLab](https://gitlab.com/or1k) · [LinkedIn](https://www.linkedin.com/in/or1k/) · [CV](https://cv.or1k.net) · admin@or1k.net
 
-![metrics](https://raw.githubusercontent.com/0r1k/0r1k/main/metrics.svg)
+<img src="https://raw.githubusercontent.com/0r1k/0r1k/main/metrics.svg" width="100%" alt="metrics" />
