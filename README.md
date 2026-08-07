@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
 $ whoami
 OR1K — DevOps / System Administrator / SRE / Cloud Engineer
@@ -9,8 +7,6 @@ Building reliable, automated, and observable Linux infrastructure.
 CI/CD pipelines, infrastructure as code, production systems that
 don't page you at 3am.
 ```
-
-</div>
 
 ### Recent writing
 
