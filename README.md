@@ -14,7 +14,7 @@ don't page you at 3am.
 - [I got tired of Jira's UI. So I built my own client](https://or1k.net/posts/jira-tui/)
 - [AI Is Not Your Brain's Friend, and Neither Are You If You Let It Think For You](https://or1k.net/posts/ai-brain-rot/)
 
-More at [or1k.net/posts](https://or1k.net/posts/)
+More at [or1k.net](https://or1k.net)
 
 ### Projects
 
