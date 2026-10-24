@@ -7,17 +7,9 @@ Building reliable, automated, and observable Linux infrastructure.
 CI/CD pipelines, infrastructure as code, production systems that
 don't page you at 3am.
 ```
-
-### Recent writing
-
-- [atk - a single-binary TUI for SSH, database, DNS, log, and kernel administration](https://or1k.net/posts/admintoolkit/)
-- [I got tired of Jira's UI. So I built my own client](https://or1k.net/posts/jira-tui/)
-- [AI Is Not Your Brain's Friend, and Neither Are You If You Let It Think For You](https://or1k.net/posts/ai-brain-rot/)
-
-More at [or1k.net](https://or1k.net)
-
 ### Projects
 
+- **[anihub](https://github.com/0r1k/anihub)** - tui for watching anime and automatically updating MyAnimeList (Python) 
 - **[LastDose](https://github.com/0r1k/lastdose)** - counter of time spent free from a bad habit (Go)
 - **[admintoolkit](https://github.com/0r1k/admintoolkit)** - Swiss-army-knife TUI toolkit for sysadmins (Rust)
 - **[jira-tui](https://github.com/0r1k/jira-tui)** - terminal-based Jira client (Python)
