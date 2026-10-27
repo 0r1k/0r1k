@@ -13,6 +13,7 @@ don't page you at 3am.
 - **[LastDose](https://github.com/0r1k/lastdose)** - counter of time spent free from a bad habit (Go)
 - **[admintoolkit](https://github.com/0r1k/admintoolkit)** - Swiss-army-knife TUI toolkit for sysadmins (Rust)
 - **[jira-tui](https://github.com/0r1k/jira-tui)** - terminal-based Jira client (Python)
+- **[claude-usage-plasmoid](https://github.com/0r1k/claude-usage-plasmoid)** - kde tray plugin for check claude usage endpoint (QML/Python/Shell)
 - **[or1k.net](https://or1k.net)** - blog on Linux, DevOps, and automation
 
 ### Elsewhere
