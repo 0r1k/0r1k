@@ -21,4 +21,4 @@ don't page you at 3am.
 
 [or1k.net](https://or1k.net) · [GitLab](https://gitlab.com/or1k) · admin@or1k.net
 
-![dancing_gopher](https://camo.githubusercontent.com/ae4dd098cd6490df1266320cd20e83cce3bc3edce20b19a0c95747940475e614/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966)
+![dancing_gopher](dancing-gopher.gif)
